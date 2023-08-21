@@ -1,6 +1,4 @@
 import pandas as pd 
+import numpy as np 
 
-xd
-xd2
-xd3
-xd4
+

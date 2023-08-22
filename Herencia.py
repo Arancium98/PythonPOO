@@ -39,3 +39,4 @@ class EmpleadoArtista(Persona,Artista):
         
         def presentar(self):
             return (f'{self.mostrar_habilidad()}')
+ 
